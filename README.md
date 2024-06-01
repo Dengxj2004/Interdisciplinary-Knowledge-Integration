@@ -22,6 +22,7 @@ Included in this repository is the source code used to compute key patent metric
 
 - **DIV\*** (Diversity Index)
 - **RS** (Rao-Stirling Index)
+
 The scripts are tailored to assist researchers in replicating the study or adapting the methodology to their own datasets.
 
 
